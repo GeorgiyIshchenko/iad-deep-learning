@@ -1,0 +1,5 @@
+train: ../train/images
+val: ../valid/images
+
+nc: 6
+names: ['king', 'jack', 'ace', 'ten', 'nine', 'queen']
